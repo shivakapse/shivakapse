@@ -31,8 +31,8 @@
 
 ## 🌱 Currently Learning
 - Git & GitHub
-- Microsoft Fabric
-- dbt (data build tool)
+- Microsoft Power Apps
+- Microsoft Power Automate
 
 ---
 
