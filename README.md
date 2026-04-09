@@ -66,6 +66,7 @@ Expertise in **Power BI, SQL, DAX, and Azure Data Factory**, with a strong focus
 
 - Delivered **20+ enterprise dashboards** across multiple domains
 - Developed **Employee Weekly Status** Power App
+- Developed [**Employee Weekly Status Power App**](https://github.com/shivakapse/employee-status-powerapp)
 - Reduced reporting effort by **60%** through automation  
 - Improved data refresh performance by **50%**  
 - Maintained **zero data leakage incidents** using robust RLS implementation  
