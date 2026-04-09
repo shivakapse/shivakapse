@@ -1,6 +1,6 @@
 # Shiva Kapse  
 
-**Principal BI Engineer | Power BI | SQL | Azure Data Factory | DAX | Data Analytics**
+**Principal BI Engineer | Power BI | SQL | Power Platform | Power Apps | Power Automate | Azure Data Factory | DAX | Data Analytics**
 
 ---
 
