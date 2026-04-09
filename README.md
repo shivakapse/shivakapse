@@ -53,6 +53,7 @@
 
 ## 📜 Certifications
 - ✅ **PL-300** — Microsoft Certified Power BI Data Analyst Associate
+- ✅ **ADF** — Azure Data Factory by **The Tools** Institute
 
 ---
 
